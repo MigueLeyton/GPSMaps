@@ -10,7 +10,8 @@
         android:label="@string/GPSMaps"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SimpleGPSMapApp">
+        android:theme="@style/Theme.SimpleGPSMapApp"
+        android:usesCleartextTraffic="false">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyC4Acl0g9z32ee-8E8gZgHY0Tt3Nxv7pE8"/>
