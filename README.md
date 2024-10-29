@@ -26,6 +26,9 @@ Esta aplicación Android proporciona servicios de ubicación en tiempo real util
 2. **Importa el proyecto en Android Studio.**
 3. **Ejecuta la aplicación en un dispositivo o emulador.**
 4. **Asegúrate de que los permisos necesarios están configurados en AndroidManifest.xml.**
+   ```bash
+   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 5. **Configura la API Key:**
    Añade tu clave de API de Google Maps en el archivo AndroidManifest.xml:
    ```bash
