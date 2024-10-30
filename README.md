@@ -15,7 +15,7 @@ Esta aplicación Android proporciona servicios de ubicación en tiempo real util
 
 ## 📚 Documentación
 - [Vulnerabilidades](app/vulnerabilities.md)
-- [Best Practices](app/BestPracticesGpsMap.md)
+- [Best Practices](app/BestPractices.md)
 - [Security Tips](app/security_tips.md)
 - [Security Improvement Program](app/security_improvement_program.md)
 
