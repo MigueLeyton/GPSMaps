@@ -23,7 +23,7 @@ Esta aplicación Android proporciona servicios de ubicación en tiempo real util
 ## 🚀 Cómo Ejecutar la Aplicación de Forma Segura
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/gps-maps.git
+   git clone https://github.com/MigueLeyton/GPSMaps.git
 2. **Importa el proyecto en Android Studio.**
 3. **Ejecuta la aplicación en un dispositivo o emulador.**
 4. **Asegúrate de que los permisos necesarios están configurados en AndroidManifest.xml.**
