@@ -14,7 +14,7 @@ Esta aplicación Android proporciona servicios de ubicación en tiempo real util
 - **Validación y sanitización de entradas:** Métodos para validar que las entradas del usuario sean seguras.
 
 ## 📚 Documentación
-- [Vulnerabilidades](vulnerabilities_report.pdf/analisisdinamico.pdf)
+- [Vulnerabilidades](vulnerability_report.pdf/analisisdinamico.pdf)
 - [Best Practices](BestPractices.md)
 - [Security Tips](SecurityTips.md)
 - [Security Improvement Program](SecurityImprovementProgram.md)
