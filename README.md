@@ -15,7 +15,7 @@ Esta aplicación Android proporciona servicios de ubicación en tiempo real util
 
 ## 📚 Documentación
 - [Vulnerabilidades - Analisis Dinamico](vulnerability_report.pdf/analisisdinamico.pdf)
-- [Vulnerabilidades - Analisis Estatico](vulnerability_report.pdf/analisisestatico.pdf)
+- [Vulnerabilidades - Analisis Estatico](vulnerability_report.pdf/analisis_estatico.pdf)
 - [Best Practices](BestPractices.md)
 - [Security Tips](SecurityTips.md)
 - [Security Improvement Program](SecurityImprovementProgram.md)
